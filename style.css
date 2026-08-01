@@ -1,6 +1,12 @@
 body {
   font-family: sans-serif;
   margin: 2rem;
+  line-height: 1.5;
+}
+
+#status {
+  color: #4b5563;
+  margin-bottom: 1rem;
 }
 
 ul {
